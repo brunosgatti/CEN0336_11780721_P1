@@ -92,4 +92,4 @@ if intron3.startswith('GT'):
             if intron3.startswith('GT'):
                 print(DNA[21:38], DNA[47:55], DNA[64:97], sep='')
 #De uma maneira mais simplificada, testando as condições propostas no item 3 e 4, e, caso verdadeiras, concatenando os éxons.
-
+#No enunciado pedia para criar um arquivo com o nome deste, mas para colocar como resposta o link do github do arquivo script_cDNA.py, mas como acredito que tenha sido só uma pequena confusão, vou deixar com esse nome que já está
